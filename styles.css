@@ -7,7 +7,7 @@ table {
 
     th, td {
       border: 1px solid black;
-      padding: 8px;
+      /* padding: 8px; */
       text-align: center;
     }
 
@@ -18,5 +18,5 @@ table {
 
     /* Set the width of nested tables to 100% */
     .nested-table {
-      width: 100%;
+      /* width: 100%; */
     }
