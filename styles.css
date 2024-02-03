@@ -1,15 +1,22 @@
+table {
+      width: 100%;
+      height: 100%;
+      border-collapse: collapse;
+      text-align: center;
+    }
 
-/* Your CSS Code here. */
-table,th,td,tr{
-	border : 1px solid black;
-	align-content : center;
-}
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+      text-align: center;
+    }
 
-.special-cell{
-	background-color : black;
-	color : white;
-}
+    .special-cell {
+      background-color: black;
+      color: white;
+    }
 
- tr {
-      text-align: center; 
- }
+    /* Set the width of nested tables to 100% */
+    .nested-table {
+      width: 100%;
+    }
