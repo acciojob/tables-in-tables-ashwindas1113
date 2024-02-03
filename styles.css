@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+table,th,td,tr{
+	border : 1px solid black;
+	align-content : center;
+}
+
+.special-cell{
+	background-color : black;
+	color : white;
+}
+
+ tr {
+      text-align: center; 
+ }
